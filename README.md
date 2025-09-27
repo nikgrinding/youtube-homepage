@@ -6,7 +6,7 @@ It recreates the layout of YouTube’s landing page, including the header, sideb
 ---
 
 ## Live Demo
-**__**
+**_https://youtube-homepage-ten.vercel.app/_**
 
 ---
 
