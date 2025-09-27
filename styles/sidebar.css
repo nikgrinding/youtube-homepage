@@ -1,0 +1,26 @@
+nav {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 55px;
+    background-color: white;
+    width: 72px;
+    z-index: 20;
+    padding-top: 5px;
+}
+
+.sidebar-tile {
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+} .sidebar-tile:hover {
+    background-color: rgb(235, 235, 235);
+} .sidebar-tile img {
+    height: 24px;
+    margin-bottom: 4px;
+} .sidebar-tile div {
+    font-size: 10px;
+}
